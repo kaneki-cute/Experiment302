@@ -1,0 +1,16 @@
+events:
+  barrierActive: false # Включается на 17 дне
+  suddenDeath: false
+  suddenDeathStart: 0 # День, в который начался взрыв
+  suddenDeathEnd: 0 # День, в который кончаются действия взрыва ядра
+
+laboratory:
+  cordsX: 0
+  cordsY: 80
+  cordsZ: 0
+
+core:
+  cordsX: 0
+  cordsY: 80
+  cordsZ: 0
+  broken: false

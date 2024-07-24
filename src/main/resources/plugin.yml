@@ -1,0 +1,6 @@
+name: Experiment-302
+version: '${project.version}'
+main: org.yuno.experiment302.Experiment302
+api-version: '1.21'
+authors: [ynkngt]
+description: Эксперимент №302 ученых "МК-7" закончился не самым хорошим исходом. 
